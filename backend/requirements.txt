@@ -1,0 +1,6 @@
+flask
+flask-cors
+pypdf
+spacy
+transformers
+werkzeug
